@@ -1,0 +1,2 @@
+# SC-GUI
+A script
